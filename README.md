@@ -1,5 +1,9 @@
 # my-swiper
 
+npm install
+node .\express\app.js
+npm run serve
+
 ## Project setup
 ```
 npm install
